@@ -162,7 +162,7 @@
         }
     }  //初始化
 
-    init("Resume") ;
+    init("canvas") ;
 
     var time = 0 ;
     var cyc = 15 ;
